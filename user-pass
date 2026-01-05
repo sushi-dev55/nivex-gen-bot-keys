@@ -7,7 +7,7 @@
 {"username":"test","password":"test","plan":"1-day","expiresAt":1762719376022}
 {"username":"tut65","password":"sushi871","plan":"1-day","expiresAt":1762874397217}
 {"username":"Lubiany","password":"D4mini3Qk!","plan":"1-day","expiresAt":1763583426277}
-{"username":"jiji","password":"jiji","plan":"Lifetime","expiresAt":null}
+{"username":"jiji","password":"jiji","plan":"Lifetime","expiresAt":null,"sessions":[{"ip":"156.215.114.146","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0","browser":"Chrome","device":"Windows","lastSeen":1767634737340}]}
 {"username":"quixxyl2","password":"Nico2302","plan":"1-day","expiresAt":1763412288593}
 {"username":"senty","password":"sentysenty1","plan":"1-day","expiresAt":1763732883386}
 {"username":"067Reselling","password":"067Reselling1234","plan":"1-day","expiresAt":1763657245288}
